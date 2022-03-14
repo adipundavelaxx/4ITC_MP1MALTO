@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/4ITC_MP1MALTO/static/css/main.cf62961d.css",
-    "main.js": "/4ITC_MP1MALTO/static/js/main.a09f6248.js",
+    "main.js": "/4ITC_MP1MALTO/static/js/main.3e33ac65.js",
     "static/media/img-adri.jpeg": "/4ITC_MP1MALTO/static/media/img-adri.93ba809690ff271394ea.jpeg",
     "static/media/img-bg.jpg": "/4ITC_MP1MALTO/static/media/img-bg.8bc3320f38392e0eea82.jpg",
     "static/media/secondpic.png": "/4ITC_MP1MALTO/static/media/secondpic.6595533c5b415f47c70e.png",
@@ -14,10 +14,10 @@
     "static/media/paper-plane.png": "/4ITC_MP1MALTO/static/media/paper-plane.a09490813ee389b1cbf9.png",
     "index.html": "/4ITC_MP1MALTO/index.html",
     "main.cf62961d.css.map": "/4ITC_MP1MALTO/static/css/main.cf62961d.css.map",
-    "main.a09f6248.js.map": "/4ITC_MP1MALTO/static/js/main.a09f6248.js.map"
+    "main.3e33ac65.js.map": "/4ITC_MP1MALTO/static/js/main.3e33ac65.js.map"
   },
   "entrypoints": [
     "static/css/main.cf62961d.css",
-    "static/js/main.a09f6248.js"
+    "static/js/main.3e33ac65.js"
   ]
 }

@@ -14,7 +14,7 @@ function App() {
     <Router>
       <Navbar />
       <Routes>
-        <Route path='/' exact element={<Home/>} />
+        <Route path='/4ITC_MP1MALTO' exact element={<Home/>} />
         
         {/* <Route path='/' exact element={<Card/>} /> */}
         {/* <Route path='/about' element={<About/>} /> */}

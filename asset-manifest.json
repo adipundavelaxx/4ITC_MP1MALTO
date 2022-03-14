@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/4ITC_MP1MALTO.git/static/css/main.cf62961d.css",
+    "main.js": "/4ITC_MP1MALTO.git/static/js/main.62e9d395.js",
+    "static/media/img-adri.jpeg": "/4ITC_MP1MALTO.git/static/media/img-adri.93ba809690ff271394ea.jpeg",
+    "static/media/img-bg.jpg": "/4ITC_MP1MALTO.git/static/media/img-bg.8bc3320f38392e0eea82.jpg",
+    "static/media/secondpic.png": "/4ITC_MP1MALTO.git/static/media/secondpic.6595533c5b415f47c70e.png",
+    "static/media/img-4.png": "/4ITC_MP1MALTO.git/static/media/img-4.ea23c327b0a74e0d9ff2.png",
+    "static/media/img-6.png": "/4ITC_MP1MALTO.git/static/media/img-6.7c2936d73a183d3fbe75.png",
+    "static/media/img-3.png": "/4ITC_MP1MALTO.git/static/media/img-3.8a74ab19a21b9d221f5e.png",
+    "static/media/img-5.png": "/4ITC_MP1MALTO.git/static/media/img-5.594f7e91bcfe28bda151.png",
+    "static/media/img-2.png": "/4ITC_MP1MALTO.git/static/media/img-2.1eb8b72957bddd1ce016.png",
+    "static/media/img-1.png": "/4ITC_MP1MALTO.git/static/media/img-1.7aaa0b33a10503bb2d47.png",
+    "static/media/paper-plane.png": "/4ITC_MP1MALTO.git/static/media/paper-plane.a09490813ee389b1cbf9.png",
+    "index.html": "/4ITC_MP1MALTO.git/index.html",
+    "main.cf62961d.css.map": "/4ITC_MP1MALTO.git/static/css/main.cf62961d.css.map",
+    "main.62e9d395.js.map": "/4ITC_MP1MALTO.git/static/js/main.62e9d395.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cf62961d.css",
+    "static/js/main.62e9d395.js"
+  ]
+}
